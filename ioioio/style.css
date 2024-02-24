@@ -1,0 +1,141 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.nov-cont {
+    text-align: center;
+}
+
+body {
+
+    background-color: rgb(163, 211, 190);
+}
+
+.noov {
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+.noov>img {
+    max-width: 700px;
+    margin-left: 200px;
+    margin-top: 75px;
+}
+
+.noov>h3 {
+    margin-left: 200px;
+}
+
+.noov-2>img {
+
+    max-width: 700px;
+    margin-left: 200px;
+    margin-top: 75px;
+}
+
+.noov>p {
+    text-align: center;
+}
+
+ul {
+    text-align: left;
+    margin-left: 100px;
+    margin: 10px;
+    margin-left: 200px;
+
+}
+
+.xon {
+    margin-left: 310px;
+    margin-top: 15px;
+}
+
+.xono {
+    margin-left: 210px;
+    margin-top: 10px;
+}
+
+ol {
+    margin: 10px;
+}
+
+.noov-2>h3 {
+    margin-left: 300px;
+    text-align: center;
+}
+
+.noov-2>img {
+    margin-left: 300px;
+}
+
+.noov-2 {
+    margin-top: 100px;
+}
+
+.pass {
+    margin-left: 100px;
+
+}
+
+.pass>ol>ul {
+    margin: 15px;
+    margin-left: 200px;
+}
+
+.divvv {
+    margin-left: 310px;
+}
+
+.wew {
+    margin-left: -820px;
+}
+
+.kam {
+    margin-top: 20px;
+    margin-left: 310px;
+}
+
+.frf>h3 {
+    margin-top: 90px;
+    margin-left: 310px;
+}
+
+.frf>img {
+    margin-left: 300px;
+}
+
+.frf>ol>ul {
+    margin-left: 300px;
+}
+
+.rart {
+    margin-left: 300px;
+    margin-top: 15px;
+}
+
+.ere {
+    margin-left: 300px;
+    margin-top: 15px;
+}
+
+.frf>img {
+    max-width: 700px;
+    margin-left: 300px;
+    margin-top: 75px;
+}
+.passs {
+    width: 1262px;
+    background-color: rgb(52, 182, 214);
+
+}
+.iox {
+    margin-top: 100px;
+    text-align: center;
+}
+
+.passs>a {
+    margin-left: 250px;
+}
+.passs>p {
+    text-align: center;
+}
